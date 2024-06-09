@@ -41,7 +41,7 @@ output = {'A': 5, 'B': 3, 'C': 7, 'D': 5}
 
 ### Project 2.2: Local Search and Constraint Satisfaction Problems
 #### Overview
-In this project, I implemented local search and CSP algorithms to solve various tasks. This project contributed 7% to my final course grade, with an additional 3% bonus available.
+In this project, I implemented local search and CSP algorithms to solve various tasks.
 
 #### Task 1: Local Search
 #### Description
