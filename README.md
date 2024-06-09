@@ -4,7 +4,7 @@
 ### Project 2.1: Constraint Satisfaction Problems (CSP)
 
 #### Overview
-In this project, I implemented a solver for a general constraint satisfaction problem (CSP) using the backtracking algorithm, along with optimizations such as forward checking and AC-3. 
+In this project, I implemented a solver for a general constraint satisfaction problem (CSP) using the backtracking algorithm, along with optimizations such as forward checking.
 
 #### Task: Backtracking Algorithm
 The task was to find a set of variable assignments that satisfy all given constraints using the backtracking algorithm.
