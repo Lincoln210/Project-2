@@ -1,5 +1,4 @@
 # Overview
-## Project 2: Constraint Satisfaction Problems and Local Search
 
 ### Project 2.1: Constraint Satisfaction Problems (CSP)
 
